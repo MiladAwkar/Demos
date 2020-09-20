@@ -11,7 +11,7 @@ class anagram {
 
     //usable variable. to check numbers and characters
     //based on ascii. Can be less than 127 but just being safe
-    static int charNum = 127;
+    static private int charNum = 127;
 
     public static void main(String[] args) {
         //pass cases
